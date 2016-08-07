@@ -12,7 +12,7 @@ var StarsFrame = React.createClass({
         return (
             <div id="stars-frame">
                 <div className="well">
-                {stars}
+                    {stars}
                 </div>
             </div>
         );
