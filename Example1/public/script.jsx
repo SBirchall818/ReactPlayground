@@ -1,10 +1,10 @@
 var Button = React.createClass({
-    localHandleClick: function() {
+    localHandleClickALT: function() {
         this.props.localHandleClick(this.props.increment);
     },
     render: function() {
         return (
-        <button onClick={this.localHandleClick}>+{this.props.increment}</button>
+        <button onClick={this.localHandleClickALT}>+{this.props.increment}</button>
         )
     }
 });
