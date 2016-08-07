@@ -4,7 +4,7 @@ var Button = React.createClass({
     },
     render: function() {
         return (
-        <button onClick={this.localHandleClickALT}>+{this.props.increment}</button>
+            <button onClick={this.localHandleClickALT}>+{this.props.increment}</button>
         )
     }
 });
