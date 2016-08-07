@@ -1,0 +1,22 @@
+{
+  "name": "example1",
+  "version": "1.0.0",
+  "description": "Basic Reactjs example taken from PluralSight",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SBirchall818/ReactPlayground.git"
+  },
+  "author": "Simon Birchall",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SBirchall818/ReactPlayground/issues"
+  },
+  "homepage": "https://github.com/SBirchall818/ReactPlayground#readme",
+  "dependencies": {
+    "express": "^4.14.0"
+  }
+}
